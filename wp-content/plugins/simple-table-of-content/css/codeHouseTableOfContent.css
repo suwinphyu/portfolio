@@ -1,0 +1,18 @@
+.of-toc {
+    border: 1px solid #ddd;
+    padding: 10px;
+    float: right;
+    display: right;
+}
+ul.of-toc-list {
+    list-style: none;
+    padding: 0;
+    margin-top: 15px;
+}
+p.tocHeading {
+    text-align: center;
+    margin-bottom: 0;
+}
+.codeHouseTableContent ul li a {
+    line-height: 22px;
+}
